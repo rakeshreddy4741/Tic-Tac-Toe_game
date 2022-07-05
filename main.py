@@ -116,11 +116,7 @@ while True:
                     turn = 'Player 1'
 
     if not replay():
-<<<<<<< HEAD
-        break
-=======
         break                             # breaks if user doesn't want to play again
->>>>>>> a7cdbd2 (Initial commit)
 
 
 
